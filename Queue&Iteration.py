@@ -30,9 +30,9 @@ class Queue:
         
 
 
-# In[27]:
 
 
+# 算出你每天分別必須要等多少天才能等到比較溫暖的溫度
 class Solution:
     def dailyTemperatures(self,temperatures):
         for t in range(len(temperatures)):
